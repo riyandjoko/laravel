@@ -17,8 +17,8 @@ Route::get('/', function () {
     
 });
 
-Route::get('/sign up', function () {
-    return view('sign up');
+Route::get('sign_up', function () {
+    return view('sign_up');
 
     
 });

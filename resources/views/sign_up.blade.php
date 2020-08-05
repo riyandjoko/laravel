@@ -49,7 +49,7 @@
     <tr>
         <br>
         <td>
-            <form action="welcome.html"><button type="submit">Sign up</button></form>
+            <form action="welcome"><button type="submit">Sign up</button></form>
         </td>
     </tr>
 
