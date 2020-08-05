@@ -22,3 +22,9 @@ Route::get('sign_up', function () {
 
     
 });
+
+Route::get('welcome', function () {
+    return view('welcome');
+
+    
+});
